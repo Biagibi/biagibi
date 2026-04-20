@@ -14,10 +14,10 @@ Buscando estágio em tecnologia em São Paulo, SP.
 
 ### 📌 Projetos em destaque 
 
-💼 [Portfólio Pessoal](https://biagibi.github.io/Portfolio-BeatrizC/) — Site pessoal responsivo com HTML, CSS e JS - 
-🎵 [WebMusic](https://biagibi.github.io/WebMusic/) — Interface de player de música com HTML, CSS e JS - 
-🛒 [Landing E-commerce](https://biagibi.github.io/Landing-e-commerce/) — Landing page de e-commerce com HTML, CSS e JS - 
-📱 [App Protótipo](https://biagibi.github.io/App-Prototipo/) — Protótipo de aplicativo mobile com HTML e CSS ### 
+- 💼 [Portfólio Pessoal](https://biagibi.github.io/Portfolio-BeatrizC/) — Site pessoal responsivo com HTML, CSS e JS - 
+- 🎵 [WebMusic](https://biagibi.github.io/WebMusic/) — Interface de player de música com HTML, CSS e JS - 
+- 🛒 [Landing E-commerce](https://biagibi.github.io/Landing-e-commerce/) — Landing page de e-commerce com HTML, CSS e JS - 
+- 📱 [App Protótipo](https://biagibi.github.io/App-Prototipo/) — Protótipo de aplicativo mobile com HTML e CSS ### 
 
 📫 Contato 
 
