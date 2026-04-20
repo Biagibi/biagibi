@@ -1,7 +1,7 @@
-## Olá, eu sou a Beatriz! 👋
+## Hello!, eu sou a Beatriz! 👋
 
-Desenvolvedora Front-End em formação, estudante de
-Análise e Desenvolvimento de Sistemas pela UNINTER.
+Desenvolvedora Front-End em formação, estudante de  
+Análise e Desenvolvimento de Sistemas pela UNINTER.  
 Buscando estágio em tecnologia em São Paulo, SP.
 
 ### 🛠️ Tecnologias
@@ -13,11 +13,11 @@ Buscando estágio em tecnologia em São Paulo, SP.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📌 Projetos em destaque
-- 💼 [Portfólio Pessoal](https://biagibi.github.io/Portfolio-BeatrizC/) — Site pessoal responsivo com HTML, CSS e JS
-- 🎵 [WebMusic](https://biagibi.github.io/WebMusic/) — Interface de player de música com HTML, CSS e JS
-- 🛒 [DevClub Store](https://biagibi.github.io/DevClub/) — Landing page de e-commerce com HTML, CSS e JS
-- 📱 [App Protótipo](https://biagibi.github.io/App-Prototipo/) — Protótipo de aplicativo mobile com HTML e CSS
+- 💼 **Portfólio Pessoal** — [Acessar](https://biagibi.github.io/Portfolio-BeatrizC/)
+- 🎵 **WebMusic** — [Acessar](https://biagibi.github.io/WebMusic/)
+- 🛒 **DevClub Store** — [Acessar](https://biagibi.github.io/DevClub/)
+- 📱 **App Protótipo** — [Acessar](https://biagibi.github.io/App-Prototipo/)
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/beatrizcavalcantee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/beatrizcavalcantee)  
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=github&logoColor=white)](https://biagibi.github.io/Portfolio-BeatrizC/)
