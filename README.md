@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, eu sou a Beatriz! 👋
 
-<!--
-**Biagibi/biagibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Front-End em formação, estudante de
+Análise e Desenvolvimento de Sistemas pela UNINTER.
+Buscando estágio em tecnologia em São Paulo, SP.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos em destaque
+- 💼 [Portfólio Pessoal](https://biagibi.github.io/Portfolio-BeatrizC/) — Site pessoal responsivo com HTML, CSS e JS
+- 🎵 [WebMusic](https://biagibi.github.io/WebMusic/) — Interface de player de música com HTML, CSS e JS
+- 🛒 [DevClub Store](https://biagibi.github.io/DevClub/) — Landing page de e-commerce com HTML, CSS e JS
+- 📱 [App Protótipo](https://biagibi.github.io/App-Prototipo/) — Protótipo de aplicativo mobile com HTML e CSS
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/beatrizcavalcantee)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=github&logoColor=white)](https://biagibi.github.io/Portfolio-BeatrizC/)
