@@ -37,6 +37,10 @@ o meu dia a dia e das pessoas. 😊💻
 Desenvolvimento de layout responsivo + organização de projetos  
 🔗 [Clique para acessar](https://beatrizcavalcante-dev.github.io/Dev-Beatriz-Cavalcante/  )
 
+**Stock — Sistema de Gerenciamento de Estoque**  
+Sistema web de controle de estoque com design moderno, desenvolvido com HTML, CSS, JavaScript e Node.js.  
+🔗 [Clique para acessar](https://beatrizcavalcante-dev.github.io/estoque-app/)
+
 **WebMusic**  
 Player de música com controle de estado (play/pause e troca de faixa)  
 🔗 [Clique para acessar](https://beatrizcavalcante-dev.github.io/WebMusic/  )
