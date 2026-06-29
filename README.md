@@ -2,24 +2,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07060f,100:2d1c7f&height=180&section=header&animation=fadeIn" width="100%"/>
 </p>
 
-<h1 align="center">💜 Hello, eu sou a Beatriz! | Dev Front-end Júnior</h1>
+<h1 align="center">💜 Hello, eu sou a Beatriz! | Dev Front-end </h1>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**  
-Formada em **Recursos Humanos** e +8 anos de experiência em ambientes corporativos e suporte administrativo  
-
-Atualmente tenho construído uma nova trajetória na área da tecnologia, por gostar muito de criar soluções que facilitam  
-o meu dia a dia e das pessoas. 😊💻      
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**.
+Tenho formação em **Recursos Humanos** e mais de **8 anos de experiência** em ambientes corporativos e suporte administrativo.
 <br>
 <br>
-
+Hoje direciono minha carreira para a tecnologia, desenvolvendo projetos e criando soluções que simplificam processos, automatizam tarefas e tornam o dia a dia mais eficiente. 💜💻     
+<br>
+<br>
 <h1>Habilidades Técnicas</h1>
 <div style="height: 1px; width: 30%; background: linear-gradient(90deg, #2d1c7f, transparent); margin-top: -10px; margin-bottom: 20px;"></div>
 
 ![HTML](https://img.shields.io/badge/HTML5-2d1c7f?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-2d1c7f?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2d1c7f?style=for-the-badge\&logo=javascript\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2d1c7f?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-2d1c7f?style=for-the-badge\&logo=figma\&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2d1c7f?style=for-the-badge&logo=cisco&logoColor=white)
+<br>
+<br>
+
+<h1>Ferramentas</h1>
+
+![VS Code](https://img.shields.io/badge/VS_Code-2d1c7f?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2d1c7f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2d1c7f?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-2d1c7f?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <br>
 <br>
 <h1>Aprimorando</h1>
@@ -27,6 +35,7 @@ o meu dia a dia e das pessoas. 😊💻
 
 ![APIs](https://img.shields.io/badge/APIs%20REST-07060f?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-07060f?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-07060f?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-07060f?style=for-the-badge\&logo=n8n\&logoColor=white)
 <br>
 <br>
@@ -45,6 +54,10 @@ Sistema web de controle de estoque com design moderno, desenvolvido com HTML, CS
 Player de música com controle de estado (play/pause e troca de faixa)  
 🔗 [Clique para acessar](https://beatrizcavalcante-dev.github.io/WebMusic/  )
 
+**Space Shooter 🚀**<br>
+Jogo 2D desenvolvido em Python com Pygame, aplicando lógica de programação, colisões, movimentação, pontuação e gerenciamento de estados.<br>
+🔗 [Clique para acessar](https://github.com/beatrizcavalcante-dev/game-beatriz-cavalcante)
+
 **Landing E-commerce**  
 Estrutura de página de vendas com foco em conversão  
 🔗 [Clique para acessar](https://beatrizcavalcante-dev.github.io/Landing-e-commerce/  )
@@ -57,7 +70,7 @@ Interface mobile simulando experiência de aplicativo
 <h1>Objetivo</h1>
 <div style="height: 1px; width: 30%; background: linear-gradient(90deg, #2d1c7f, transparent); margin-top: -10px; margin-bottom: 20px;"></div>
 
-Atuar como Desenvolvedora Front-end Júnior ou Estágio em Desenvolvimento de Software 💻
+Atuar como Desenvolvedora Front-end ou Estágio em Desenvolvimento de Software 💻
 <br>
 <br>
 <h1>Contato</h1>
